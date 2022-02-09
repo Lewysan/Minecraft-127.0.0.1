@@ -1,5 +1,5 @@
 # This has been tested with spigot.jar (v1.8)
-# Create a folder, move server.jar and start.bash to the folder directory.
+# Create a folder, move server.jar and start.bash to the server directory.
 # And run it
 # !Linux: remember to give execute permission :)
 
